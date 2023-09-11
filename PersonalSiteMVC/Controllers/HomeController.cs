@@ -33,7 +33,22 @@ namespace PersonalSiteMVC.Controllers
             return View();
         }
 
-        public IActionResult Services ()
+        public IActionResult Services()
+        {
+            return View();
+        }
+
+        public IActionResult Portfolio()
+        {
+            return View();
+        }
+
+        public IActionResult Testimonials() 
+        {
+            return View();
+        }
+
+        public IActionResult Contact() 
         {
             return View();
         }
