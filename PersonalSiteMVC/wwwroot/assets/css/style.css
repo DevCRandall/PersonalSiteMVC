@@ -10,8 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #161B33;
-  color: #4e4e4e;
+    background-color: #255d46;
+    color: #4e4e4e;
 }
 
 h1,
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #80671D;
+    background-color: #255d46;
 }
 
 .overlay-mf {
